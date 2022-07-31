@@ -1,7 +1,7 @@
 # GSU-code
 This repository contains code from coursework during my PhD program at GSU. Below, you'll find a brief description of each file.
 
-[Logit and Probit Regression](/Logit and Probit Regression.pdf)
+[Logit and Probit Regression](/Logit%20and%20Probit%20Regression.pdf)
 
 [Week 2_Linear Regression](/Week 2_Linear Regression.R)
 
