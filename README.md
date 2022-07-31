@@ -3,12 +3,12 @@ This repository contains code from coursework during my PhD program at GSU. Belo
 
 [Logit and Probit Regression](/Logit%20and%20Probit%20Regression.pdf)
 
-[Week 2_Linear Regression](/Week 2_Linear Regression.R)
+[Week 2_Linear Regression](/Week%202_Linear%20Regression.R)
 
-[final data analysis](/final data analysis.R)
+[final data analysis](/final%20data%20analysis.R)
 
-[final exam q2](/final exam q2.R)
+[final exam q2](/final%20exam q2.R)
 
-[research project analysis](/research project analysis.R)
+[research project analysis](/research%20project%20analysis.R)
 
 
