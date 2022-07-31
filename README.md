@@ -7,7 +7,7 @@ This repository contains code from coursework during my PhD program at GSU. Belo
 
 [final data analysis](/final%20data%20analysis.R)
 
-[final exam q2](/final%20exam q2.R)
+[final exam q2](/final%20exam%20q2.R)
 
 [research project analysis](/research%20project%20analysis.R)
 
